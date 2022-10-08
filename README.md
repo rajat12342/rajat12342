@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajat Sogarwal, a second year Software Engineering student at the University Of Guelph.
+- 👋 Hi, I’m Rajat Sogarwal, a second year Computer Science student at the University Of Guelph.
 - 👀 I’m interested in learning about APIs, software testing, data analysis, maching learning concepts.
 - 🌱 I’m currently learning about all of the above and anything else that piques my interest in the fields of software engineering, data analytics and finance.
 
